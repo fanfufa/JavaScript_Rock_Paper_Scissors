@@ -44,3 +44,8 @@ I have already known most of the methods used, but there are some that I don't k
    |   -  userChoiceDisplay.innerHTML  = userChoice --> Update the HTML to display the result of the selected ID stored in the `userChoice` variable <br><br>
    |   -  generateComputerChoice(); --> Call 'generateComputerChoice' function <br><br>
    |   -  getresult(); --> Call 'getresult' function
+
+
+<h2> References </h2>
+Youtube video: https://www.youtube.com/watch?v=ec8vSKJuZTk
+Youtube channel: https://www.youtube.com/@freecodecamp
