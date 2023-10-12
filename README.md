@@ -47,5 +47,5 @@ I have already known most of the methods used, but there are some that I don't k
 
 
 <h2> References </h2>
-Youtube video: https://www.youtube.com/watch?v=ec8vSKJuZTk
-Youtube channel: https://www.youtube.com/@freecodecamp
+<span style="color:red"> Youtube video: </span> Learn JavaScript by Building 7 Games - Full Course = https://www.youtube.com/watch?v=ec8vSKJuZTk <br>
+<span style="color:blue"> Youtube channel: </span> freeCodeCamp = https://www.youtube.com/@freecodecamp
